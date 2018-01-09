@@ -4,4 +4,4 @@ With the press shift+f2 you can make every single message you type turn into a c
 
 Type a message then hit shift+ctrl+1 to convert it into ascii art, and try different numbers to change the ascii font! 
 
-boi.js also automatically changes your text if it contains a certain key string into a lenny face emoji. Basically, typing <lenny> a lenny face will appear. There, however are a bunch more faces, full list available <a href="https://github.com/davidovski/BDPlugins/blob/master/emojis.txt"  >here</a> 
+boi.js also automatically changes your text if it contains a certain key string into a lenny face emoji. Basically, typing <lenny> a lenny face will appear. There, however are a bunch more faces, full list available <a href="https://github.com/davidovski/BDPlugins/blob/master/boi/emojis.txt"  >here</a> 
