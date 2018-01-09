@@ -91,19 +91,19 @@ boi.prototype.observer = function (e) {
 };
 
 boi.prototype.getName = function () {
-    return "Boi Plugin";
+    return "Boi.js";
 };
 
 boi.prototype.getDescription = function () {
-    return "Turns your messages into a cool style... wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww";
+    return "boi.js\n\nkeybinds\n\nshift + f1 resets mode.\nshift + f2 sets mode to codey\nshift + f3 sets mode to shouting\nshift + f4 sets mode to burrito\nshift + f5 sets the mod to what ever you currently have in the text box\nctrl + any number turns the current text into ascii art, different numbers do different fonts.\nf6 sets window to movement mode, meaning that you can resize scale and rotate the window.\n - arrow keys to move\n- - and = to scale\n- [ and ] to rotate\npress f6 again to lock.\n\nEmoji\n         <lenny>   ( ͡° ͜ʖ ͡°)\n    <boss>     (▀̿Ĺ̯▀̿ ̿)\n    <stache>     ヽ° ~͜ʖ~ °ﾉ\n    <flippy>     ʕノ◔ϖ◔ʔノ ︵ ┻━┻\n    <flip>     (ノ◔ω◔)ノ︵ ┻━┻\n    <shrugy>     ┐(´～｀)┌\n    <creep>     ┬┴┬┴┤  (ಠ├┬┴┬┴\n    <happy>      ◔ ͜ ◔\n    <sad>     ◔̯◔\n    <wink>     ಠ‿↼\n         <evil>     (◣◢)\n    <bear>     ʕ•ᴥ•ʔ\n    <kawaii>     (｡◕‿◕｡)\n    <yum>     (っ˘ڡ˘ς)\n    <hurt>     (҂◡◡)";
 };
 
 boi.prototype.getVersion = function () {
-    return "0.1.5";
+    return "1.2.1";
 };
 
 boi.prototype.getAuthor = function () {
-    return "davidovski";
+    return "davidovski#8648";
 };
 
 boi.prototype.onSwitch = function() {
